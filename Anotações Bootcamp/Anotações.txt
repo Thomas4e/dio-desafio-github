@@ -1,0 +1,6 @@
+Tópicos Estrutura de Dados
+Lista;
+Fila - FIFO
+Pilha - LIFO
+Árvore
+Tabela
